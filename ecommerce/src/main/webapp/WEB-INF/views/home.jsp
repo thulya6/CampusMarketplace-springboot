@@ -267,9 +267,9 @@
 
       <nav>
         <a href="home">Home</a>
-        <a href="addProduct.jsp">Add Product</a>
+        <a href="/addProduct">Add Product</a>
         <a href="myChats.jsp">My Chats</a>
-        <a href="myListings">My Listings</a>
+        <a href="/myListings">My Listings</a>
         <a href="wishlist.jsp">Wishlist</a>
         <a href="profile.jsp">Profile</a>
       </nav>
@@ -340,7 +340,7 @@
             <p class="condition">Condition: <%= product[4] %></p>
 
             <div class="actions">
-                <a href="productDetails.jsp?id=<%= product[0] %>" class="btn btn-primary">View</a>
+                <a href="/home?id=<%= product[0] %>" class="btn btn-primary">View</a>
                 <a href="wishlist.jsp" class="btn btn-outline">Save</a>
             </div>
         </div>

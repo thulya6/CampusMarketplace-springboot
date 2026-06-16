@@ -155,7 +155,7 @@
 
       <div class="bottom">
         Already have an account?
-        <a href="login.jsp">Login</a>
+        <a href="/login">Login</a>
       </div>
     </div>
   </body>

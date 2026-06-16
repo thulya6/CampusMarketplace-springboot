@@ -143,7 +143,7 @@
 
       <div class="bottom">
         Don'€™t have an account?
-        <a href="registration.jsp">Sign Up</a>
+        <a href="/registration">Sign Up</a>
       </div>
     </div>
   </body>

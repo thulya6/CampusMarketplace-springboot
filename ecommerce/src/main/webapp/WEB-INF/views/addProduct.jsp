@@ -235,10 +235,10 @@
       <div class="logo">Campus<span>Market</span></div>
 
       <nav>
-        <a href="home.jsp">Home</a>
-        <a href="addProduct.jsp">Add Product</a>
+        <a href="/home">Home</a>
+        <a href="/addProduct">Add Product</a>
         <a href="myChats.jsp">My Chats</a>
-        <a href="myListings.jsp">My Listings</a>
+        <a href="/myListings">My Listings</a>
         <a href="wishlist.jsp">Wishlist</a>
         <a href="profile.jsp">Profile</a>
       </nav>

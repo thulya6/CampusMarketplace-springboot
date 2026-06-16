@@ -204,8 +204,8 @@
       <div class="logo">Campus<span>Market</span></div>
 
       <nav>
-        <a href="login.jsp">Login</a>
-        <a href="registration.jsp">Sign Up</a>
+        <a href="/login">Login</a>
+        <a href="/registration">Sign Up</a>
       </nav>
     </header>
 
@@ -222,8 +222,8 @@
         </p>
 
         <div class="buttons">
-          <a href="registration.jsp" class="btn btn-primary">Get Started</a>
-          <a href="login.jsp" class="btn btn-secondary">Login</a>
+          <a href="/registration" class="btn btn-primary">Get Started</a>
+          <a href="/login" class="btn btn-secondary">Login</a>
         </div>
 
         <div class="features">

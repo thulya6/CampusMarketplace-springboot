@@ -15,7 +15,7 @@ public class DbConnection {
             con = DriverManager.getConnection(
                     "jdbc:mysql://localhost:3306/ecom",
                     "root",
-                    "root123");
+                    "root");
 
             System.out.println("Connected to database");
 
